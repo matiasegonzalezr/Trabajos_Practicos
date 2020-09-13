@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1599958101 source:c:\users\sony\desktop\laboratorio-programacion\tp_laboratorio_1\calculadora_tp_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+
+1599957889 source:c:\users\sony\desktop\laboratorio-programacion\tp_laboratorio_1\calculadora_tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	<string.h>
+
+1599957601 c:\users\sony\desktop\laboratorio-programacion\tp_laboratorio_1\calculadora_tp_1\funciones.h
+
+1599771402 c:\users\sony\desktop\laboratorio-programacion\tp_laboratorio_1\calculadora_tp_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
